@@ -1,6 +1,7 @@
 : 1
 name: foo-bar
-version: 0.1.0+1
+project: foo-bar2
+version: 0.1.0+2
 summary: foo-bar C++ executable
 license: other: proprietary ; Not free/open source.
 description-file: README.md
