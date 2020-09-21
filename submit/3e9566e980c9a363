@@ -1,0 +1,6 @@
+: 1
+name: foo-bar
+version: 0.1.0+3
+project: foo-bar2
+summary: foo-bar C++ executable
+license: other: proprietary; Not free/open source.
